@@ -1,13 +1,13 @@
 ## FARLIGHT — The Stories Beyond the Mission. 
 
 to access FARLIGHT protoype:
-https://www.figma.com/proto/46qk0G9MYk4x92YY6592o4/FARLIGHT?node-id=2-2&p=f&t=KaFUKElrEGW7HFQG-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
+- https://www.figma.com/proto/46qk0G9MYk4x92YY6592o4/FARLIGHT?node-id=2-2&p=f&t=KaFUKElrEGW7HFQG-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
 
 demo prototype video:
-https://drive.google.com/drive/folders/1tXGpDDlsQ0tGCAgSOhVhQte2wxuuAf-F?usp=sharing
+- https://drive.google.com/drive/folders/1tXGpDDlsQ0tGCAgSOhVhQte2wxuuAf-F?usp=sharing
 
 presentation slide:
-
+- https://github.com/user-attachments/files/34874987/FARLIGHT_presentationslide.pdf
 
 ### What does FARLIGHT do and how does it work?
 FARLIGHT is an interactive planetary archaeology experience designed to tell the stories of NASA machines left behind on the Moon and Mars. It transforms mission into an accessible digital exploration experience.
